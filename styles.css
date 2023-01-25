@@ -223,3 +223,7 @@ hr {
     margin-left: 0px;
     margin-right: 0px;
 }
+
+.no-indent {
+    text-indent: 0px;
+}
