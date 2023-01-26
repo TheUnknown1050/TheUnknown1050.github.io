@@ -79,6 +79,8 @@ li a:hover {
 .title {
     margin: 10px;
     font-size: 40px;
+    right: 0px;
+    position:relative;
 }
 
 .content {
